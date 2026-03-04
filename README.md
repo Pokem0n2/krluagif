@@ -1,7 +1,7 @@
-# KRLuaGIF - Kingdom Rush Origins 风格塔防游戏
+# KRLuaGIF - 动作类生存小游戏
 
 ## 项目概述
-基于 Love2D 引擎开发的 KRA（Kingdom Rush Origins）风格塔防游戏，玩家控制 Vesper 英雄对抗 enemy_unblinded_abomination 敌人。
+基于 Love2D 引擎开发的动作类生存小游戏，使用了塔防游戏 KRA 的素材改版，玩家控制 Vesper 英雄对抗 enemy_unblinded_abomination 敌人。
 
 ## 功能特性
 
@@ -90,7 +90,7 @@
 ## 开发环境
 - Love2D 引擎
 - Lua 编程语言
-- 图像资源：Kingdom Rush Origins 素材
+- 图像资源：KRA 游戏素材
 
 ## 许可证
 本项目仅供学习和参考使用，图像资源版权归原作者所有。
