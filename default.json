@@ -1,0 +1,13 @@
+{
+    "vesperAttackPower": 300,
+    "vesperAttackRange": 300,
+    "vesperAttackSpeed": 1.0,
+    "vesperSkill1Damage": 150,
+    "vesperSkill2Damage": 200,
+    "vesperMoveSpeed": 200,
+    "enemyArmor": 0.1,
+    "enemySpeed": 20,
+    "enemySpawnSpeed": 2.0,
+    "skill1Cooldown": 20,
+    "skill2Cooldown": 60
+}
